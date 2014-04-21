@@ -9,6 +9,7 @@ public class MainActivity extends Activity {
 	//world
 	//world
 	//hdme MAC
+	//windowsで編集
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
